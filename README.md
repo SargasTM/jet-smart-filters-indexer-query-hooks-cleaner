@@ -1,0 +1,1 @@
+# jet-smart-filters-indexer-query-hooks-cleaner
